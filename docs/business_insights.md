@@ -22,3 +22,14 @@ Customers who use automatic payment methods such as Bank Transfer and Credit Car
 ### Recommendation
 
 The company can encourage customers to switch to automatic payment methods by offering incentives such as cashback, discounts, or reward points. This may help improve customer retention and reduce churn.
+
+
+## Insight 3: Fiber Optic Customers Show Higher Churn
+
+Customers using Fiber Optic internet have a churn rate of 41.89%, which is significantly higher than DSL customers (18.99%).
+
+This indicates that Fiber Optic customers are more likely to discontinue the service and should be considered a high-risk customer segment.
+
+### Recommendation
+
+The company should investigate customer feedback, pricing, service quality, and support issues related to Fiber Optic plans. Targeted retention campaigns can also be introduced for Fiber Optic customers.
