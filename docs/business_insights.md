@@ -33,3 +33,15 @@ This indicates that Fiber Optic customers are more likely to discontinue the ser
 ### Recommendation
 
 The company should investigate customer feedback, pricing, service quality, and support issues related to Fiber Optic plans. Targeted retention campaigns can also be introduced for Fiber Optic customers.
+
+
+## Insight 4: New Customers Are More Likely to Churn
+
+The average tenure of customers who churned is 17.98 months, whereas customers who stayed have an average tenure of 37.65 months.
+
+This suggests that customer churn is more common during the early stages of the customer lifecycle. Once customers stay with the company for a longer period, they are more likely to remain loyal.
+
+### Recommendation
+
+The company should focus on improving the onboarding experience and customer engagement during the first few months. Early retention programs and proactive customer support may help reduce churn among new customers.
+
