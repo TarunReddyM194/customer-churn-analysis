@@ -45,3 +45,15 @@ This suggests that customer churn is more common during the early stages of the 
 
 The company should focus on improving the onboarding experience and customer engagement during the first few months. Early retention programs and proactive customer support may help reduce churn among new customers.
 
+
+## Insight 5: Customers with Higher Monthly Charges Are More Likely to Churn
+
+The analysis shows that customers who churned paid an average monthly charge of $74.44, while retained customers paid an average of $61.31.
+
+This indicates that customers with higher monthly bills are more likely to leave the company. Pricing may be one of the factors influencing customer decisions, especially when customers do not perceive enough value from the services they receive.
+
+### Recommendation
+
+The company should review high-priced plans and ensure customers understand the value they receive. Special offers, bundled services, or loyalty discounts could help improve retention among customers with higher monthly charges.
+
+
