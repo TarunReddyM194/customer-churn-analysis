@@ -90,6 +90,17 @@ This suggests that customers who use additional services tend to stay with the c
 The company can promote Online Security as part of bundled plans and educate customers about its benefits. Increasing adoption of value-added services may help improve customer retention.
 
 
+## Insight 9: Contract Commitment Has a Bigger Impact Than Monthly Charges
+
+The average monthly charges across different contract types are relatively similar. However, customers on month-to-month contracts have a significantly higher churn rate compared to customers on one-year and two-year contracts.
+
+This indicates that contract commitment plays a more important role in customer retention than the monthly price alone.
+
+### Recommendation
+
+The company should focus on encouraging customers to move from month-to-month plans to long-term contracts through discounts, loyalty rewards, and bundled offers.
+
+
 
 
 
