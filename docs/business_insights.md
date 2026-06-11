@@ -57,3 +57,16 @@ This indicates that customers with higher monthly bills are more likely to leave
 The company should review high-priced plans and ensure customers understand the value they receive. Special offers, bundled services, or loyalty discounts could help improve retention among customers with higher monthly charges.
 
 
+## Insight 6: Senior Citizens Have a Higher Churn Rate
+
+The analysis shows that senior citizens have a churn rate of 41.68%, which is considerably higher than the churn rate of non-senior customers (23.65%).
+
+This indicates that senior citizens are a high-risk customer segment and may require additional attention to improve retention.
+
+### Recommendation
+
+The company can introduce tailored plans, simplified service offerings, and dedicated customer support for senior citizens. Understanding their needs and addressing potential service challenges may help reduce churn within this segment.
+
+
+
+
