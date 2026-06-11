@@ -79,5 +79,17 @@ This indicates that customers who receive technical assistance are more likely t
 The company should encourage customers to subscribe to Tech Support services and improve awareness of available support options. Providing quick and effective support can help improve customer satisfaction and reduce churn.
 
 
+## Insight 8: Customers with Online Security Are Less Likely to Churn
+
+Customers who do not subscribe to Online Security have a churn rate of 41.78%, while customers who use Online Security have a churn rate of only 14.64%.
+
+This suggests that customers who use additional services tend to stay with the company longer and are less likely to switch to competitors.
+
+### Recommendation
+
+The company can promote Online Security as part of bundled plans and educate customers about its benefits. Increasing adoption of value-added services may help improve customer retention.
+
+
+
 
 
