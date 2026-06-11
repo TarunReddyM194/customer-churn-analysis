@@ -68,5 +68,16 @@ This indicates that senior citizens are a high-risk customer segment and may req
 The company can introduce tailored plans, simplified service offerings, and dedicated customer support for senior citizens. Understanding their needs and addressing potential service challenges may help reduce churn within this segment.
 
 
+## Insight 7: Tech Support Significantly Reduces Customer Churn
+
+Customers without Tech Support have a churn rate of 41.65%, whereas customers who use Tech Support have a much lower churn rate of 15.20%.
+
+This indicates that customers who receive technical assistance are more likely to remain with the company and less likely to discontinue their services.
+
+### Recommendation
+
+The company should encourage customers to subscribe to Tech Support services and improve awareness of available support options. Providing quick and effective support can help improve customer satisfaction and reduce churn.
+
+
 
 
