@@ -101,6 +101,15 @@ This indicates that contract commitment plays a more important role in customer 
 The company should focus on encouraging customers to move from month-to-month plans to long-term contracts through discounts, loyalty rewards, and bundled offers.
 
 
+## Insight 10: Month-to-Month Customers Using Electronic Check Represent the Largest Churn Segment
+
+Among customers who left the company, the largest group consisted of customers on month-to-month contracts who used Electronic Check as their payment method.
+
+This combination accounted for 994 churned customers, making it the most common profile among customers who discontinued the service.
+
+### Recommendation
+
+The company should prioritize retention campaigns for month-to-month customers using Electronic Check. Special offers, automatic payment incentives, and long-term contract discounts could help reduce churn within this segment.
 
 
 
